@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1665272713, 54656982]
+build_end_time: [1665272721, 32319068]
+inputs:
+  "/Users/saifal-dinali/Desktop/Projects/Flutter Projects/CoffeeTime/macos/Flutter/GeneratedPluginRegistrant.swift": [1665272691, 789887189]
+  "/Users/saifal-dinali/Desktop/Projects/Flutter Projects/CoffeeTime/macos/Runner/AppDelegate.swift": [1662552710, 0]
+  "/Users/saifal-dinali/Desktop/Projects/Flutter Projects/CoffeeTime/macos/Runner/MainFlutterWindow.swift": [1662552710, 0]
